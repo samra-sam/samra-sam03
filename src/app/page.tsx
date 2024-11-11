@@ -11,7 +11,7 @@ export default function Home(){
       <div className="div2">
       <h2 className="h">Samra Sam</h2>
       <br />
-      <p className="p2">I'm Samra. I am studing Cloud AI Artificial Intelligence , Metaverse & Web 3.0 At Sindh Govornor House.I'm studied HTML, CSS, and JavaScript, and now I'm focusing on Next.js.</p>
+      <p className="p2">I am Samra. I am studing Cloud AI Artificial Intelligence , Metaverse & Web 3.0 At Sindh Govornor House.I am studied HTML, CSS, and JavaScript, and now I am focusing on Next.js.</p>
     </div>
     <Image src={HOmePic} alt="HomePic" className="img2"/>
     </div>
